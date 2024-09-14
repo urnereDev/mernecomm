@@ -1,8 +1,12 @@
-# React + Vite
+🚀 Modern Web Uygulaması Şablonu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Next.js, TypeScript ve Tailwind CSS ile oluşturulmuş hızlı, SEO dostu ve ölçeklenebilir bir web uygulaması başlangıç şablonu. Geliştiriciler için mükemmel bir temel sağlar.
 
-Currently, two official plugins are available:
+✨ Özellikler:
+- Next.js 13+ ile hızlı sayfa yüklemeleri
+- TypeScript ile güçlü tip kontrolü
+- Tailwind CSS ile özelleştirilebilir tasarım
+- Yerleşik SEO optimizasyonları
+- Kolay dağıtım ve ölçeklendirme
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Hızlı başlangıç için hazır yapılandırma ve en iyi uygulamalar içerir. Projenizi bugün oluşturmaya başlayın!
